@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BankingApp</string>
+    <string name="account_activity_label">Account Details</string>
+    <string name="transaction_activity_label">Transaction History</string>
+    <!-- Add other string resources as needed -->
+</resources>
